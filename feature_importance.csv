@@ -1,0 +1,16 @@
+Feature,Importance
+num__SessionsPerWeek,0.3548108
+num__AvgSessionDurationMinutes,0.25811926
+num__AchievementsUnlocked,0.03618849
+num__PlayerLevel,0.03395265
+num__PlayTimeHours,0.020210544
+num__Age,0.019405434
+cat__GameGenre_Sports,0.01933638
+cat__Gender_Female,0.01932473
+cat__GameGenre_RPG,0.019220654
+cat__GameGenre_Action,0.019105647
+cat__Location_Europe,0.018977681
+cat__GameDifficulty_Medium,0.018826293
+cat__GameGenre_Simulation,0.018816357
+num__InGamePurchases,0.018796287
+cat__GameDifficulty_Easy,0.018742701
